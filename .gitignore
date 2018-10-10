@@ -1,0 +1,7 @@
+idea/
+*.iml
+.*
+!/.gitignore
+target/
+untitled3/log.txt
+untitled3/list.xls                      
